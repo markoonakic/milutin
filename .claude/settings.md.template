@@ -1,0 +1,15 @@
+---
+description: System configuration
+---
+
+# Configuration
+
+VAULT_BASE_PATH=/path/to/your/vault
+CONFIG_PATH=/path/to/milutin
+
+---
+
+**Setup**:
+1. Replace paths above with your actual vault and milutin directory locations
+2. Update `.mcp.json` with the same vault path
+3. Restart Claude Code for changes to take effect

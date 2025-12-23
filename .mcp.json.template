@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "MCP_DOCKER": {
+      "command": "docker",
+      "args": ["mcp", "gateway", "run"],
+      "type": "stdio"
+    },
+    "smart-connections": {
+      "command": "npx",
+      "args": ["-y", "@yejianye/smart-connections-mcp"],
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "YOUR_VAULT_PATH_HERE",
+        "CONFIG_PATH": "YOUR_CONFIG_PATH_HERE",
+        "OBSIDIAN_API_URL": "https://127.0.0.1:27124",
+        "OBSIDIAN_API_KEY": "YOUR_OBSIDIAN_API_KEY_HERE"
+      },
+      "type": "stdio"
+    }
+  }
+}
