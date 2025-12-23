@@ -135,7 +135,7 @@ Milutin creates a powerful **nested agent system**:
 
 ### Prerequisites
 
-- [Claude Code](https://claude.ai/claude-code)
+- [Claude Code](https://github.com/anthropics/claude-code)
 - [Obsidian](https://obsidian.md/)
 - Node.js 18+
 - Git
@@ -174,7 +174,7 @@ If this works, you're ready! 🎉
 
 ### Step 1: Install Claude Code
 
-Visit [claude.ai/claude-code](https://claude.ai/claude-code) and follow installation instructions.
+Visit [https://github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) and follow installation instructions.
 
 ### Step 2: Install Node.js
 
@@ -881,7 +881,3 @@ MIT - Use, modify, distribute freely. See [LICENSE](LICENSE).
 - Build your system over time
 
 **Questions?** Start with `/search-vault` and explore from there. 🧠✨
-
----
-
-**Ready to build your second brain?** Clone, configure, and start capturing. 🎯
