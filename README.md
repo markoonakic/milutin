@@ -66,7 +66,7 @@ Milutin is a **multi-layered knowledge management system** that creates an intel
 6. **Brains** (vaults) can be switched with a single command
 7. **Git** tracks your agent configurations (not your private notes)
 
-### Key Innovation: Switchable Brains 🔄
+### Switchable Brains 🔄
 
 ```bash
 # Working on a project
