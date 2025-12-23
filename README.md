@@ -2,7 +2,7 @@
 
 **AI-powered second brain system for Claude Code + Obsidian**
 
-Capture insights, discover connections, and synthesize knowledge—with AI assistance that writes in your authentic voice.
+Capture insights, discover connections, and synthesize knowledge - with AI assistance that writes in your authentic voice.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude-Code-purple)](https://claude.ai/claude-code)
